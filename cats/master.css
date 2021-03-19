@@ -1,0 +1,19 @@
+.blue i {
+  color: blue;
+}
+
+.pink i {
+  color: pink;
+}
+
+.min-op i {
+  opacity: 0.2;
+}
+
+.med-op i {
+  opacity: 0.5;
+}
+
+.max-op i {
+  opacity: 1;
+}
